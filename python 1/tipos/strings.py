@@ -1,4 +1,4 @@
-nombre_curso = "Ultimate Python"  
+nombre_curso = "Ultimate Python"
 descripcion_curso = """
 Ultimate Python,
 este curso contempla todos los detalles 
