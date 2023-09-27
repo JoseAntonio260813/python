@@ -1,6 +1,6 @@
 numero = 2    # entero -> int
-decimal = 1.2     # decimal -> float
-imaginario = 2 + 2j    # 2 + 2i
+Decimal = 1.2     # decimal -> float
+Imaginario = 2 + 2j    # 2 + 2i
 
 # numero = numero + 2
 numero += 5
